@@ -24,11 +24,11 @@ De esta forma, se puede mejorar la gestión y coordinación de dichos planes de 
 
 ### Integrantes
 * __David Fernández Llamazares__
-  * *__Email__*: [d.fernandezll@alumnos.urjc.es](d.fernandezll@alumnos.urjc.es)
-  * *__Cuenta github__*: [https://github.com/dfernandezll](https://github.com/dfernandezll)
+  * *__Email__*: d.fernandezll@alumnos.urjc.es
+  * *__Cuenta github__*: https://github.com/dfernandezll
 
 * __Jacinto José Cruz Nieto__
-  * *__Email__*: [jj.cruz@alumnos.urjc.es](jj.cruz@alumnos.urjc.es)
-  * *__Cuenta github__*: [https://github.com/jacintoj](https://github.com/jacintoj)
+  * *__Email__*: jj.cruz@alumnos.urjc.es
+  * *__Cuenta github__*: https://github.com/jacintoj
   
 __Tablero Trello__: https://trello.com/b/Qd7JKv8N/practica-sistemas-distribuidos

@@ -31,4 +31,4 @@ De esta forma, se puede mejorar la gestión y coordinación de dichos planes de 
   * *__Email__*: jj.cruz@alumnos.urjc.es
   * *__Cuenta github__*: https://github.com/jacintoj
   
-__Tablero Trello__: nuesto tablero Trello se puede encontrar [aquí](https://trello.com/b/Qd7JKv8N/practica-sistemas-distribuidos)
+__Tablero Trello__: nuesto tablero Trello se puede encontrar [aquí](https://trello.com/b/Qd7JKv8N/practica-sistemas-distribuidos) 

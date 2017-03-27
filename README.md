@@ -23,12 +23,9 @@ De esta forma, se puede mejorar la gestión y coordinación de dichos planes de 
 * *__Ejercicio__*: es la unidad de entrenamiento. Cada ejercicio pertenece a una categoría, tiene marcado el peso con el que realizarlo, el número de repeticiones, el número de series, el tiempo de descanso entre las mismas. Y se acompaña una foto del ejercicio.
 
 ### Integrantes
-* __David Fernández Llamazares__
-  * *__Email__*: d.fernandezll@alumnos.urjc.es
-  * *__Cuenta github__*: https://github.com/dfernandezll
 
 * __Jacinto José Cruz Nieto__
   * *__Email__*: jj.cruz@alumnos.urjc.es
   * *__Cuenta github__*: https://github.com/jacintoj
   
-__Tablero Trello__: nuesto tablero Trello se puede encontrar [aquí](https://trello.com/b/Qd7JKv8N/practica-sistemas-distribuidos) 
+__Tablero Trello__: el tablero Trello se puede encontrar [aquí](https://trello.com/b/Qd7JKv8N/practica-sistemas-distribuidos) 
